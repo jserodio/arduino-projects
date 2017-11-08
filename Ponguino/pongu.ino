@@ -6,7 +6,7 @@
   \_\  _/ |___/\___|_|  \___/ \__,_|_|\___/  /_/ 
       |__/                                       
 
-  @author jserodio <serodio.jose@protonmail.ch>
+  @author jserodio <serodio.jose[at]protonmail[dot]ch>
 
   MIT License
 
